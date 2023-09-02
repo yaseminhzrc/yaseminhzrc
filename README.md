@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yasemin Hızarcı</h1>
-<h2 align="center">Data Scientist</h2>
+<h1 align="center">Data Scientist</h1>
 
 - 🔭 I’m currently working on **Data Science**
 
